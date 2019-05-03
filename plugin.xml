@@ -20,7 +20,7 @@
 			Dieses Plugin bringt Tiny Typo v1.3.4 in SPIP und lässt Sie alle Vorteile von Tiny Typo in SPIP nutzen.
 		</multi>
 	</description>
-	<lien>https://contrib.spip.net/Plugin-Tiny-Typo?var_mode=preview</lien>
+	<lien>https://contrib.spip.net/Plugin-Tiny-Typo</lien>
 	<auteur>&copy; [Tiny Typo->http://tinytypo.tetue.net] 2014 - MIT License - by [tetue->http://spip.tetue.net]</auteur>
 
 	<options>tinytypo_options.php</options>
