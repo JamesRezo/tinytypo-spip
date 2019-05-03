@@ -21,7 +21,7 @@
 			Dieses Plugin bringt Tiny Typo v1.3.4 in SPIP und lässt Sie alle Vorteile von Tiny Typo in SPIP nutzen.
 		</multi>
 	</description>
-	<lien>https://zone.spip.org/trac/spip-zone/browser/_plugins_/tinytypo/trunk/todo.txt</lien>
+	<lien>https://github.com/tetue/tinytypo-spip/blob/master/todo.txt</lien>
 	<auteur>&copy; [Tiny Typo->http://tinytypo.tetue.net] 2014 - MIT License - by [tetue->http://spip.tetue.net]</auteur>
 
 	<options>tinytypo_options.php</options>
